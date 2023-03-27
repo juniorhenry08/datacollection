@@ -31,7 +31,7 @@
 
   #textarea:active {
    box-shadow: 5px 8px 15px rgba(26, 25, 25, 0.822);
-    transform: scale(1.05);
+    transform: scale(0.75);
   }
 
   h1 {
